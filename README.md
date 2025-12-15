@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Niv 👋
 
-<!--
-**Kataki-Niv/Kataki-Niv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI/ML enthusiast interested in building real-world AI systems.
+I enjoy working on Machine Learning, Computer Vision, and AI-powered products.
 
-Here are some ideas to get you started:
+### 🔹 Skills
+- Python, Pandas, NumPy
+- Machine Learning (classification, evaluation)
+- Computer Vision (YOLO, object detection)
+- Streamlit (AI demos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Projects
+- **YOLO Object Detection System (Serve Smart Hackathon)**  
+  Built and trained a YOLO-based object detection model for a hackathon challenge.
+
+- **AI Travel Companion & Co-Traveller Matching Platform (VisaVerse Hackathon)**  
+  Developing an AI-powered travel platform with intelligent matching and cultural guidance.
+
+- **ML Classification Model Comparison**  
+  Preprocessed a real-world dataset and compared 12 classification models using evaluation metrics.
+
+### 🔹 Currently Working On
+- Enhancing VisaVerse with AI-based matching and cultural intelligence
+
+📫 Reach me at: nivk9581@gmail.com
+
