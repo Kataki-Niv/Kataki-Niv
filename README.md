@@ -15,10 +15,15 @@ I’m a Computer Science undergraduate interested in **Machine Learning, Compute
 
 ## 🚀 Projects
 
-### 🔹 YOLO-Based Object Detection System  
-*Hackathon Project*
+### 🔹  Zenith — AI-Powered Solar Feasibility & Optimization Platform
 
-Built and trained a YOLO-based object detection pipeline to identify and localize objects in images under hackathon constraints. Worked on dataset preparation, model training, inference, and evaluation using standard computer vision metrics such as IoU.
+Full-Stack AI Project
+
+Developed a full-stack solar feasibility and optimization platform using Next.js, TypeScript, Tailwind CSS, and AI-powered analysis workflows. Implemented dynamic energy savings calculations, feasibility scoring, bill analysis, Gemini-powered AI explanations, and interactive dashboard visualizations for residential solar adoption.
+
+Built modular multi-service architecture with scalable frontend-backend integration, responsive UI systems, and real-time analytical components focused on sustainability and renewable energy accessibility.
+
+Tech Stack: Next.js, React, TypeScript, Tailwind CSS, Gemini API, Python
 
 ---
 
