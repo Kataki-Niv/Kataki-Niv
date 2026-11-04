@@ -6,40 +6,52 @@ I’m a Computer Science undergraduate interested in **Machine Learning, Compute
 
 ## 🧠 Skills
 - **Programming:** Python, C
-- **Data & ML:** Pandas, NumPy, Scikit-learn  
+- **AI/ML:** Pandas, NumPy, Scikit-learn
+- **Web:** FastAPI, Next.js, Tailwind CSS
 - **Computer Vision:** YOLO, Object Detection  
-- **Prototyping & Demos:** Streamlit  
-- **ML Concepts:** Classification, Evaluation, Interpretability, Uncertainty Handling  
+- **Databases:** MongoDB Atlas, Pinecone
+- **Tools:** Git, GitHub, VS Code, Colab
+
 
 ---
 
 ## 🚀 Projects
 
 ### 🔹  Zenith — AI-Powered Solar Feasibility & Optimization Platform
+*Award Winner — HackSocial 2026 (643 participants)*
 
-Full-Stack AI Project
+Zenith is a cloud-based solar planning platform that evaluates location feasibility, estimates energy demand,
+analyzes cost-benefit and ROI, and provides rooftop suitability and subsidy guidance to support informed solar
+adoption. Inspired by the One Sun One Grid initiative, it focuses on scalable decision support through interactive
+analysis and visualization.
 
-Developed a full-stack solar feasibility and optimization platform using Next.js, TypeScript, Tailwind CSS, and AI-powered analysis workflows. Implemented dynamic energy savings calculations, feasibility scoring, bill analysis, Gemini-powered AI explanations, and interactive dashboard visualizations for residential solar adoption.
-
-Built modular multi-service architecture with scalable frontend-backend integration, responsive UI systems, and real-time analytical components focused on sustainability and renewable energy accessibility.
-
-Tech Stack: Next.js, React, TypeScript, Tailwind CSS, Gemini API, Python
+Tech: Python, TypeScript (TSX), Cloud-based Data Storage, Data Visualization Libraries, GitHub
 
 ---
 
-### 🔹 CoVoyage — AI-Powered Travel Companion Matching Platform  
+### 🔹 CoVoyage — AI-Powered Travel Companion & Cultural Guidance Platform  
 *Independent Project (Prototype)*
 
-Developing an AI-powered travel companion matching platform to help first-time international travelers find compatible co-travellers and access structured country-wise visa and cultural guidance. The project focuses on modular design and scalable matching logic for future AI-driven enhancements.
+CoVoyage is an AI-powered travel platform that matches compatible travellers using multilingual embeddings,
+vector similarity search, and profile-based compatibility scoring, while providing intelligent destination guidance
+through visa information, cultural insights, and community recommendations. It features a FastAPI backend
+with JWT authentication, MongoDB Atlas, and a responsive Next.js frontend for an end-to-end travel planning
+experience.
+
+Tech: Python, FastAPI, Next.js, Tailwind CSS, MongoDB Atlas, Pinecone, Sentence Transformers, JWT Authentication, Git
 
 ---
 
 ### 🔹 RiskLens-AD — Interpretable Alzheimer’s Risk Assessment System  
-*Hackathon Project (AI 4 Alzheimer’s – Hack4Health)*
+*Honorary Mention — AI for Alzheimer’s Hackathon (1400+ participants)*
 
-Developed an interpretable machine learning prototype for early Alzheimer’s risk assessment, reframing detection as a **risk stratification problem** rather than a binary diagnosis.  
-The system uses transparent models, age-adjusted brain atrophy features, and uncertainty-aware risk bands (low, high, uncertain) to support safer and more responsible decision-making in healthcare contexts.  
-This project is **not a diagnostic tool** and is intended as a decision-support prototype.
+RiskLens-AD is an interpretable machine learning system for early Alzheimer’s disease risk assessment that
+reframes detection as a risk stratification problem with uncertainty handling. It engineers clinically meaningful
+features from cognitive scores, demographics, and brain measurements, including age-adjusted brain atrophy
+and cognitive–brain mismatch. A logistic regression model generates Low, Uncertain, and High risk bands with
+patient-level visual explanations.
+Tech: Python, Pandas, NumPy, scikit-learn, Data Visualization
+
 
 ---
 
